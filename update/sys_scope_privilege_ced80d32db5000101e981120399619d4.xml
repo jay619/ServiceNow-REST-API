@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Countries">84b3013edb1000101e98112039961976</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-08 15:35:42</sys_created_on>
+        <sys_id>ced80d32db5000101e981120399619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptableRESTResponse.getBody</sys_name>
+        <sys_package display_value="Countries" source="x_271791_countries">84b3013edb1000101e98112039961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Countries">84b3013edb1000101e98112039961976</sys_scope>
+        <sys_update_name>sys_scope_privilege_ced80d32db5000101e981120399619d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-08 15:35:42</sys_updated_on>
+        <target_name>ScriptableRESTResponse.getBody</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

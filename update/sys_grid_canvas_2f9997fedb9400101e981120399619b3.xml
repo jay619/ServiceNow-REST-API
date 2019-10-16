@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2019-10-16 16:07:41">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">af9997fedb9400101e981120399619b2</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-09 02:08:14</sys_created_on>
+        <sys_id>2f9997fedb9400101e981120399619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="Countries" source="x_271791_countries">84b3013edb1000101e98112039961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Countries">84b3013edb1000101e98112039961976</sys_scope>
+        <sys_update_name>sys_grid_canvas_2f9997fedb9400101e981120399619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-09 02:08:14</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>
